@@ -1,4 +1,4 @@
-# Actividad 1.2 - Carga de memoria distribuida en MPI
+# Actividad 1.1 - Carga de memoria distribuida en MPI
 
 ## Integrantes
 
@@ -43,7 +43,7 @@ Implementar un programa de programación paralela utilizando MPI y OpenMP, traba
 ## Estructura del proyecto
 
 ```text
-Actividad1.2_MPI_OpenMP/
+Actividad1.1_MPI_OpenMP/
 │
 ├── main.cpp
 └── README.md
